@@ -1,0 +1,32 @@
+// Fonts
+@import url("https://fonts.bunny.net/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+// // FontAwesome
+// @import "@fortawesome/fontawesome-free/scss/fontawesome";
+
+.custom-table {
+    max-height: 610px;
+}
+
+.select2-container--default .select2-selection--single {
+    border: 1px solid #ced4da;
+    padding: 0.46875rem 0.75rem;
+    height: calc(2.25rem + 2px);
+}
+
+.select2-container--default
+    .select2-selection--single
+    .select2-selection__arrow {
+    height: 31px;
+    right: 6px;
+}
+
+// input[type="file"] + label * {
+//     pointer-events: none;
+// }

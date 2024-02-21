@@ -1,0 +1,11 @@
+Para iniciar o servidor precisa rodar, em um prompt de comando separado, 
+
+-- php artisan serve
+
+Para iniciar o servidor para compilar o sass (css) precisa rodar, 
+em um prompt de comando separado, 
+
+-- npm run dev
+
+ 
+http://localhost:8000
